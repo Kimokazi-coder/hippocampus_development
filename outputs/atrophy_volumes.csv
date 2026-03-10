@@ -1,0 +1,10 @@
+severity,label,volume_mm3,delta_mm3,pct_change
+mild,cortex,1531.731,-591.887,-27.87
+mild,SRLM,607.919,32.164,5.59
+mild,cyst,13.069,0.714,5.78
+medium,cortex,1314.654,-808.963,-38.09
+medium,SRLM,515.919,-59.837,-10.39
+medium,cyst,13.913,1.558,12.61
+strong,cortex,1152.749,-970.868,-45.72
+strong,SRLM,433.226,-142.529,-24.76
+strong,cyst,14.809,2.454,19.86
